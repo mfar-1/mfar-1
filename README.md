@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white"/>
 </p>
 
-### <img src="https://em-content.zobj.net/thumbs/240/apple/354/jigsaw_1f9e9.png" height="20"/> Frameworks & Libraries
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/card-index-dividers_1f5c2-fe0f.png" height="20"/> Frameworks & Libraries
 
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>

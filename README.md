@@ -8,7 +8,7 @@
 
 ---
 
-<img src="https://em-content.zobj.net/thumbs/240/apple/354/person-bowing-light-skin-tone_1f647-1f3fb_200d_2640-fe0f.png" height="20"/> About Me
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/ringed-planet_1fa90.png" height="20"/> About Me
 
 <img src="https://em-content.zobj.net/thumbs/240/apple/354/graduation-cap_1f393.png" height="20"/> I am passionate about building reliable, scalable, and well-maintainable backend systems using Java and Spring.  
 <img src="https://em-content.zobj.net/thumbs/240/apple/354/seedling_1f331.png" height="20"/> I have hands-on experience with Microservices architecture, message-driven communication using RabbitMQ, and containerization with Docker.  

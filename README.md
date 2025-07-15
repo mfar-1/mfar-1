@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Malika 👋</h1>
+<h1 align="center">Hi, I'm Malika 💞</h1>
 
 <p align="center">
   <em>💻 Java Backend Developer | ☁️ Spring Boot, PostgreSQL | 🐇 RabbitMQ, Docker | REST API Lover</em>
@@ -6,7 +6,7 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## 🙇🏻‍♀️ About Me
 
 🎓 I’m passionate about building reliable, scalable and maintainable backend systems using Java and Spring.  
 🌱 Currently learning: Microservices, Messaging (RabbitMQ), Containerization (Docker).  

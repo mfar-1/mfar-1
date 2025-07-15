@@ -8,8 +8,8 @@
 
 ## 🙇🏻‍♀️ About Me
 
-🎓 I’m passionate about building reliable, scalable and maintainable backend systems using Java and Spring.  
-🌱 Currently learning: Microservices, Messaging (RabbitMQ), Containerization (Docker).  
+🎓 I am passionate about building reliable, scalable, and well-maintainable backend systems using Java and Spring.  
+🌱 I have hands-on experience with Microservices architecture, message-driven communication using RabbitMQ, and containerization with Docker.  
 📚 I enjoy documenting my work and collaborating on open-source or team projects.
 
 ---

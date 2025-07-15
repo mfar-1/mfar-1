@@ -72,14 +72,17 @@
 ## 📫 Contact Me
 
 <p>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:malikabonufarxodova@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  <a href="https://t.me/mfx_m">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/malika_xf">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-✨ _Thanks for stopping by my profile! Let's build something amazing together._
+✨ _Thanks for visiting my profile! Let's build something amazing together._

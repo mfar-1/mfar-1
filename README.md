@@ -1,22 +1,24 @@
-<h1 align="center">Hi, I'm Malika 💞</h1>
+<h1 align="center">Hi, I'm Malika <img src="https://em-content.zobj.net/thumbs/240/apple/354/sparkling-heart_1f496.png" height="20"/></h1>
 
 <p align="center">
-  <em>💻 Java Backend Developer | ☁️ Spring Boot, PostgreSQL | 🐇 RabbitMQ, Docker | REST API Lover</em>
+  <em><img src="https://em-content.zobj.net/thumbs/240/apple/354/laptop_1f4bb.png" height="20"/> Java Backend Developer | 
+  <img src="https://em-content.zobj.net/thumbs/240/apple/354/cloud_2601-fe0f.png" height="20"/> Spring Boot, PostgreSQL | 
+  <img src="https://em-content.zobj.net/thumbs/240/apple/354/rabbit-face_1f430.png" height="20"/> RabbitMQ, Docker | REST API Lover</em>
 </p>
 
 ---
 
-## 🙇🏻‍♀️ About Me
+## <img src="https://em-content.zobj.net/thumbs/240/apple/354/person-bowing-light-skin-tone_1f647-1f3fb_200d_2640-fe0f.png" height="20"/> About Me
 
-🎓 I am passionate about building reliable, scalable, and well-maintainable backend systems using Java and Spring.  
-🌱 I have hands-on experience with Microservices architecture, message-driven communication using RabbitMQ, and containerization with Docker.  
-📚 I enjoy documenting my work and collaborating on open-source or team projects.
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/graduation-cap_1f393.png" height="20"/> I am passionate about building reliable, scalable, and well-maintainable backend systems using Java and Spring.  
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/seedling_1f331.png" height="20"/> I have hands-on experience with Microservices architecture, message-driven communication using RabbitMQ, and containerization with Docker.  
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/books_1f4da.png" height="20"/> I enjoy documenting my work and collaborating on open-source or team projects.
 
 ---
 
-## 🚀 Tech Stack
+## <img src="https://em-content.zobj.net/thumbs/240/apple/354/rocket_1f680.png" height="20"/> Tech Stack
 
-### 👩‍💻 Languages & Markup
+### <img src="https://em-content.zobj.net/thumbs/240/apple/354/woman-technologist-light-skin-tone_1f469-1f3fb-200d-1f4bb.png" height="20"/> Languages & Markup
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
@@ -26,7 +28,7 @@
   <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white"/>
 </p>
 
-### 🧩 Frameworks & Libraries
+### <img src="https://em-content.zobj.net/thumbs/240/apple/354/jigsaw_1f9e9.png" height="20"/> Frameworks & Libraries
 
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
@@ -37,7 +39,7 @@
   <img src="https://img.shields.io/badge/JSP-007ACC?style=flat&logo=java&logoColor=white"/>
 </p>
 
-### 🛠️ Databases & Messaging
+### <img src="https://em-content.zobj.net/thumbs/240/apple/354/hammer-and-wrench_1f6e0-fe0f.png" height="20"/> Databases & Messaging
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
@@ -48,7 +50,7 @@
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"/>
 </p>
 
-### ⚙️ Tools & DevOps
+### <img src="https://em-content.zobj.net/thumbs/240/apple/354/gear_2699-fe0f.png" height="20"/> Tools & DevOps
 
 <p>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
@@ -61,7 +63,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://em-content.zobj.net/thumbs/240/apple/354/bar-chart_1f4ca.png" height="20"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mfar-1&show_icons=true&theme=default&count_private=true" width="450"/>
@@ -69,7 +71,7 @@
 
 ---
 
-## 📫 Contact Me
+## <img src="https://em-content.zobj.net/thumbs/240/apple/354/envelope-with-arrow_1f4e9.png" height="20"/> Contact Me
 
 <p>
   <a href="mailto:malikabonufarxodova@gmail.com">
@@ -85,4 +87,4 @@
 
 ---
 
-✨ _Thanks for visiting my profile! Let's build something amazing together._
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/sparkles_2728.png" height="20"/> _Thanks for visiting my profile! Let's build something amazing together._

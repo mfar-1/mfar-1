@@ -74,7 +74,7 @@
 ## <img src="https://em-content.zobj.net/thumbs/240/apple/354/envelope-with-arrow_1f4e9.png" height="20"/> Contact Me
 
 <p>
-  <a href="mailto:malikabonufarxodova@gmail.com">
+  <a href="mailto:farxodovamalikabonuua@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://t.me/mfx_m">
